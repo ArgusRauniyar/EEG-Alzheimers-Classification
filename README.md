@@ -1,6 +1,6 @@
 # EEG-Alzheimers-Classification
 
-For classification of alzheimer's, this project processes resting state-closed eye EEG data in EEGLAB .set format and extracts power spectral features from standard EEG frequency bands. The extracted features are suitable for further machine learning tasks such as classification or regression.
+This project analyzes resting state-closed eye EEG recordings and participant data to explore potential biomarkers for Alzheimer’s disease. It extracts brainwave activity in key frequency bands from raw EEG signals and combines these neural features with demographic and cognitive test data for classification
 
 Accuracy: 78%
 
