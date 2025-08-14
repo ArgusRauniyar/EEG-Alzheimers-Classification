@@ -1,6 +1,8 @@
 # EEG-Alzheimers-Classification
 
-This project processes resting state-closed eye EEG data in EEGLAB .set format and extracts power spectral features from standard EEG frequency bands. The extracted features are suitable for further machine learning tasks such as classification or regression.
+For classification of alzheimer's, this project processes resting state-closed eye EEG data in EEGLAB .set format and extracts power spectral features from standard EEG frequency bands. The extracted features are suitable for further machine learning tasks such as classification or regression.
+
+Accuracy: 78%
 
 The workflow is implemented in Python using the MNE-Python library and follows a reproducible, notebook-based approach.
 
